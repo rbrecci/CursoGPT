@@ -1,0 +1,3 @@
+Data: 04/11/2008 | Op: Joana | Forn: WYZ | Prod: Prod B | Qtd: 23 | Tipo: Entrada
+Data: 20/04/2026 | Op: José | Forn: ABC | Prod: Prod A | Qtd: 123 | Tipo: Entrada
+01/01/0101 | José | ABC | Prod B | 23 | Saída
